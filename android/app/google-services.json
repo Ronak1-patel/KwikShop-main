@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897496293289",
+    "project_id": "bolebaba-46364",
+    "storage_bucket": "bolebaba-46364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897496293289:android:85281aadf7e194399d6eb8",
+        "android_client_info": {
+          "package_name": "com.example.kwikshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFgw-Zs5NVv3VGInbn-OtnDFspi4kDLl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
